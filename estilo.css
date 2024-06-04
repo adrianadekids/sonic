@@ -1,0 +1,39 @@
+body{
+    background: rgba(193, 217, 226, 0.795);
+}
+.principal{
+    background:rgb(126, 145, 207) ;
+    text-align: center;
+}
+img{
+    width: 50%;
+}
+
+body{
+    background: rgba(60, 91, 126, 0.795);
+}
+.subcategoría{
+    background:rgb(141, 157, 209) ;
+    text-align: center;
+}
+img{
+    width: 50%;
+}
+
+body{
+    background: rgba(193, 217, 226, 0.795);
+}
+.subsubcategoría{
+    background:rgb(169, 170, 230) ;
+    text-align: center;
+}
+img{
+    width: 50%;
+}
+.turret-road-extrabold {
+    font-family: "Turret Road", sans-serif;
+    font-weight:900;
+    font-size: larger;
+    font-style: normal;
+  }
+  
